@@ -10,7 +10,7 @@ More on Website :
 
 ### Boostrap 5
 <!-- blog starts -->
-* [Landing Page Cubiconia.com](https:)
+* [Landing Page Cubiconia.com](https://maulidyadwi25.github.io/Cubiconia.com/)
 <!-- blog ends -->
 </tr>
 <tr>
